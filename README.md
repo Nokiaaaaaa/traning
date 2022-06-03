@@ -1,0 +1,2 @@
+# traning
+train my sely
